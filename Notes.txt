@@ -1,0 +1,57 @@
+Library Management System: 
+A Library Management System coded in C to improve understanding on the concepts on File management, 
+record entry, modification, deletion. 
+
+Description: 
+In this project, the system has keep records of book-ID, books name, 
+author name, quantity, borrower’s information such that name, contact 
+number, etc. User can search books by book name. The system will show the search result with available quantity. 
+If there are spare books then it could be lent otherwise not. 
+
+Code Pre-Requirements:
+1. Password Screen 
+2. Main Menu Screen
+3. User Panel 
+4. Book Panel 
+5. End Screen 
+
+Code Requirements [Part-1] [User] [user_Records.txt]: 
+===Start Menu====
+1.Register Member
+2.Login as Member
+3.Login as librarian
+4.Search book
+5.Display all book
+6.Exit
+
+User Details: 
+Email Id/Phone Number:
+Password:
+
+As a Member:
+1.Display book
+2.Search book
+3.Issue book
+4.Return book
+5.view issued book
+
+Book Details:
+1. Book Name 
+2. Book Author 
+3. Book Quantity 
+4.Category
+
+As a librarian
+1.Display book
+2.Search book
+3.Add book
+4.Update book
+5.Delete book
+6.view book
+7.view members
+
+Book Details:
+1. Book Name 
+2. Book Author 
+3. Book Quantity
+4.Category
